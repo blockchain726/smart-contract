@@ -1,0 +1,3 @@
+Blockchain - Smart Contract creator
+
+Hi I am looking for someone that can create a smart contract for us to launch on BSC. There will be many functions included in the tax - reflections, token burn, % to marketing wallet and more
